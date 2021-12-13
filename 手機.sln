@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "手機", "手機\手機.csproj", "{B78A7559-6B71-483F-91E0-E08F564D531F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice 7-1", "..\課堂功課\視窗程式設計\practice 7-1\practice 7-1\practice 7-1.csproj", "{A4472A04-C132-41A6-B95F-86745C79C2C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B78A7559-6B71-483F-91E0-E08F564D531F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78A7559-6B71-483F-91E0-E08F564D531F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78A7559-6B71-483F-91E0-E08F564D531F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78A7559-6B71-483F-91E0-E08F564D531F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4472A04-C132-41A6-B95F-86745C79C2C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4472A04-C132-41A6-B95F-86745C79C2C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4472A04-C132-41A6-B95F-86745C79C2C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4472A04-C132-41A6-B95F-86745C79C2C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

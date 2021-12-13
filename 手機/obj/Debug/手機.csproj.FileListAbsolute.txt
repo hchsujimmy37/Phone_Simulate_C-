@@ -1,0 +1,248 @@
+C:\Users\朱瑋民\Desktop\手機\手機\bin\Debug\手機.exe.config
+C:\Users\朱瑋民\Desktop\手機\手機\bin\Debug\手機.exe
+C:\Users\朱瑋民\Desktop\手機\手機\bin\Debug\手機.pdb
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.csprojResolveAssemblyReference.cache
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.Form1.resources
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.Properties.Resources.resources
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.csproj.GenerateResource.Cache
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.exe
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.pdb
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.Form2.resources
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.Form3.resources
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.Form4.resources
+C:\Users\朱瑋民\Desktop\手機\手機\bin\Debug\Interop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\手機\手機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\Interop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.csproj.ResolveComReference.cache
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.Form5.resources
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.music.resources
+C:\Users\朱瑋民\Desktop\手機\手機\obj\Debug\手機.Form6.resources
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\手機.exe.config
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.exe
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.pdb
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\main.resx
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\main.cs
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\main.Designer.cs
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\message.mdf
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\message_log.ldf
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\手機.exe
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\手機.pdb
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\手機new\手機\手機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.Form1.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.Form2.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.Form3.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.Form4.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.Form5.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.Form6.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.main.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.music.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.Properties.Resources.resources
+C:\Users\user\Downloads\手機new\手機\手機\obj\Debug\手機.csproj.GenerateResource.Cache
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\手機.exe.config
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\Interop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.csproj.ResolveComReference.cache
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.exe
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.pdb
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\message.mdf
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\message_log.ldf
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\main.resx
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\main.cs
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\main.Designer.cs
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\手機.exe
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\手機.pdb
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\Interop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.csprojResolveAssemblyReference.cache
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.Form1.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.Form2.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.Form3.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.Form4.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.Form5.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.Form6.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.main.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.music.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.Properties.Resources.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.csproj.GenerateResource.Cache
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.sirisystem.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.accountset.resources
+C:\Users\朱瑋民\Desktop\手機new\手機\手機\obj\Debug\手機.game.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\手機.exe.config
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.exe
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.pdb
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\message.mdf
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\message_log.ldf
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\main.resx
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\main.cs
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\main.Designer.cs
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\手機.exe
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\手機.pdb
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\new new new\手機new\手機\手機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.accountset.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.call.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.Form1.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.Form2.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.Form3.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.Form4.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.Form5.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.Form6.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.game.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.main.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.music.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.Properties.Resources.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.sirisystem.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.setting.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.minesweeper.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.MediaPlayer.resources
+C:\Users\user\Downloads\new new new\手機new\手機\手機\obj\Debug\手機.ImagePlayer.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\手機.exe.config
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\Interop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.csproj.ResolveComReference.cache
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.exe
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.pdb
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\message.mdf
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\message_log.ldf
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\main.resx
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\main.cs
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\main.Designer.cs
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\手機.exe
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\手機.pdb
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\Interop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.csprojResolveAssemblyReference.cache
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.accountset.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.call.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form1.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form2.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form3.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form4.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form5.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form6.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.game.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.ImagePlayer.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.main.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.MediaPlayer.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.minesweeper.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.music.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Properties.Resources.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.setting.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.sirisystem.resources
+C:\Users\朱瑋民\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.csproj.GenerateResource.Cache
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\手機.exe.config
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\Interop.WMPLib.dll
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.csproj.ResolveComReference.cache
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.exe
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.pdb
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\message.mdf
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\message_log.ldf
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\main.resx
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\main.cs
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\main.Designer.cs
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\手機.exe
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\手機.pdb
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\Interop.WMPLib.dll
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.csprojResolveAssemblyReference.cache
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.accountset.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.call.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form1.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form2.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form3.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form4.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form5.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Form6.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.game.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.ImagePlayer.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.main.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.MediaPlayer.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.minesweeper.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.music.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.Properties.Resources.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.setting.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.sirisystem.resources
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.csproj.GenerateResource.Cache
+C:\Users\Yow-Dar\Desktop\new new new\手機new\手機\手機\obj\Debug\手機.AppLock.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\手機.exe.config
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.exe
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.pdb
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\message.mdf
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\message_log.ldf
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\main.resx
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\main.cs
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\main.Designer.cs
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\手機.exe
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\手機.pdb
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.accountset.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.AppLock.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.call.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form1.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form2.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form3.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form4.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form5.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form6.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.game.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.ImagePlayer.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.main.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.MediaPlayer.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.minesweeper.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.music.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Properties.Resources.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.setting.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.sirisystem.resources
+C:\Users\user\Downloads\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\手機.exe.config
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.csproj.ResolveComReference.cache
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.exe
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.pdb
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\message.mdf
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\message_log.ldf
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\main.resx
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\main.cs
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\main.Designer.cs
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\手機.exe
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\手機.pdb
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.accountset.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.AppLock.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.call.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form1.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form2.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form3.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form4.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form5.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Form6.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.game.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.ImagePlayer.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.main.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.MediaPlayer.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.minesweeper.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.music.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.Properties.Resources.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.setting.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.sirisystem.resources
+C:\Users\user\Downloads\第28組_趣味手機_v1\0106最新\new new new\手機new\手機\手機\obj\Debug\手機.csproj.GenerateResource.Cache
